@@ -13,6 +13,8 @@ router.get("/",async(req,res)=>{
     else res.send(productsData)
   })
 
+
+
   var productsData = [];
   request.on('row', (columns) => { //every time we receive back a row from SQLServer
     var product = {}
