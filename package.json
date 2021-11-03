@@ -20,6 +20,6 @@
     "pdfkit": "^0.10.0",
     "shortid": "^2.2.15",
     "tedious": "^6.4.0",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
